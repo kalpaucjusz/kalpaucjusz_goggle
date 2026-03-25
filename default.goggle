@@ -1,7 +1,7 @@
-name: Kalpaucjusz goggle
-description: goggle 2026
-public: false
-author: kalpaucjusz
+! name: Kalpaucjusz goggle
+! description: goggle 2026
+! public: false
+! author: kalpaucjusz
 
 ! https://github.com/brave/goggles-quickstart/blob/main/goggles/quickstart.goggle
 
