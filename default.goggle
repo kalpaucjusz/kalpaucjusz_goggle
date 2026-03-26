@@ -5,25 +5,33 @@
 
 ! https://github.com/brave/goggles-quickstart/blob/main/goggles/quickstart.goggle
 
+! wikis and dicts
+$boost=3,site=britannica.com
 $boost=3,site=en.wikipedia.org
 $boost=3,site=pl.wikipedia.org
 $boost=3,site=pl.wikisource.org
 $boost=3,site=en.wikisource.org
 $boost=3,site=pl.wiktionary.org
 $boost=3,site=en.wiktionary.org
-$boost=3,site=britannica.com
 $boost=3,site=ldoceonline.com
 $boost=3,site=oxfordlearnersdictionaries.com
 $boost=3,site=sjp.pwn.pl
-$boost=3,site=themoviedb.org
-$boost=3,site=goodreads.com
-$boost=3,site=archive.org
-$boost=3,site=wolnelektury.pl
-$boost=3,site=europeana.eu
-$boost=3,site=fbc.pionier.net.pl
-$boost=3,site=polona.pl
-$boost=3,site=store.steampowered.com
-$boost=3,site=gog.com
+
+! journalism
+$boost=3,site=news.ycombinator.com
 $boost=3,site=oko.press
 $boost=3,site=theguardian.com
 $boost=3,site=quantamagazine.org
+
+! culture
+$boost=3,site=themoviedb.org
+$boost=3,site=goodreads.com
+$boost=3,site=polona.pl
+$boost=3,site=europeana.eu
+$boost=3,site=wolnelektury.pl
+$boost=3,site=fbc.pionier.net.pl
+$boost=3,site=archive.org
+
+! games
+$boost=3,site=store.steampowered.com
+$boost=3,site=gog.com
